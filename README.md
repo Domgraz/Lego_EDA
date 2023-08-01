@@ -37,3 +37,10 @@
 
 ## Calculated Data
 * Price Per Piece - the total cost of the set divided by the number of pieces
+
+## Key Questions
+* How has Lego expanded year to year since it's inception in terms of themes?
+* How has Lego expanded year to year since it's inception in terms of number of sets?
+* Is there a difference between liscensed themes and original themes in terms of price and price per piece?
+* Has the price per piece increased in recent years? (since modern Lego)
+* Changes in Lego Star Wars since its creation
